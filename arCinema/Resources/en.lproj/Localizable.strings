@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  arCinema
+
+  Created by Илья Шахназаров on 17.02.2023.
+  
+*/
+
+//MARK: VideosViewController
+"cancel" = "Cancel";
+"error" = "Error";
+"invalid_url" = "Invalid URL";
+"source_mode" = "Open source link";
+"cinema_mode" = "Cinema Mode";
+"choose_mode" = "Choose display mode";
+"bar_search" = "Search videos";
+"hint" = "You can search for videos by tapping on search bar, typing your query in (English) and pressing `search`";
+"feed" = "Video Feed";
+"enter_query" = "Please, enter your query";
+"nil_views" = "? views";
+"nil_date" = "Unknown date";
+"nil_title" = "No title provided for this video";
+"sample" = "Sample";
+
+// MARK: CinemaViewController
+"back_to_feed" = "Back to feed";
+"replay" = "Replay video";
+"video_ended" = "Video ended!";
+"choose_option" = "Choose option";
+"session_failure" = "Session failure";
+"camera_check" = "Please check for camera permission";
+
+//MARK: Services
+"smth_wrong" = "Something went wrong";
+"check_connection" = "Check your Internet connection and try again later.";

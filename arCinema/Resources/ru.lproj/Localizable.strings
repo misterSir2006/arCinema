@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  arCinema
+
+  Created by Илья Шахназаров on 17.02.2023.
+  
+*/
+
+//MARK: VideosViewController
+"cancel" = "Отмена";
+"error" = "Ошибка";
+"invalid_url" = "Неверный URL";
+"source_mode" = "Открыть источник";
+"cinema_mode" = "Кинотеатр";
+"choose_mode" = "Выберите как смотреть видео";
+"bar_search" = "Найдите видео";
+"hint" = "Вы можете найти видео нажав на поисковую строку, ввести ваш запрос (на английском) и нажать `search`";
+"feed" = "Лента видео";
+"enter_query" = "Пожалуйста, введите запрос";
+"nil_views" = "? views";
+"nil_date" = "Без даты";
+"nil_title" = "Название отсутствует";
+"sample" = "Образец";
+
+// MARK: CinemaViewController
+"back_to_feed" = "Вернуться к ленте";
+"replay" = "Включить заново";
+"video_ended" = "Видео кончилось!";
+"choose_option" = "Выберите";
+
+//MARK: Services
+"smth_wrong" = "Что-то пошло не так";
+"check_connection" = "Проверьте ваше соединение с интернетом и повторите попытку позже";
