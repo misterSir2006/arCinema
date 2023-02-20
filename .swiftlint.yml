@@ -1,0 +1,14 @@
+# included/excluded modules and/or files
+included:
+    - arCinema
+
+excluded:
+    - Pods
+    - arCinema/AppDelegate.swift
+    - arCinema/SceneDelegate.swift
+
+# rule identifiers turned on by default to exclude from running
+disabled_rules:
+    - private_over_fileprivate
+    - nesting
+    - block_based_kvo
