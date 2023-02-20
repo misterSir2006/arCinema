@@ -1,3 +1,3 @@
-# arCinema
+# AR Cinema
 
-## "AR Cinema" app using serpAPI, ARKit and SceneKit
+## App uses serpAPI for video fetching, ARKit and SceneKit for displaying videos in AR scene.
